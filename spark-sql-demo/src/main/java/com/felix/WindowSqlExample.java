@@ -2,7 +2,10 @@ package com.felix;
 
 import org.apache.spark.sql.*;
 
-public class OverSqlExample {
+/**
+ * https://spark.apache.org/docs/3.2.0/sql-ref-syntax-qry-select-window.html
+ */
+public class WindowSqlExample {
     private static final String jsonFilePath = "spark-core-demo/data/input/reduced-tweets.json";
 
     public static void main(String[] args) throws Exception {
