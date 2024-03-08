@@ -1,0 +1,9 @@
+{"id":1, "uid":1006, "exam_id":9003, "start_time":"2021-09-07 10:01:01", "submit_time":"2021-09-07 10:21:02", "score":84}
+{"id":3, "uid":1006, "exam_id":9002, "start_time":"2021-09-06 10:01:01", "submit_time":"2021-09-06 10:21:01", "score":81}
+{"id":4, "uid":1005, "exam_id":9002, "start_time":"2021-09-05 10:01:01", "submit_time":"2021-09-05 10:21:01", "score":81}
+{"id":2, "uid":1006, "exam_id":9001, "start_time":"2021-09-01 12:11:01", "submit_time":"2021-09-01 12:31:01", "score":89}
+{"id":5, "uid":1005, "exam_id":9001, "start_time":"2021-09-05 10:31:01", "submit_time":"2021-09-05 10:51:01", "score":81}
+{"id":6, "uid":1004, "exam_id":9002, "start_time":"2021-09-05 10:01:01", "submit_time":"2021-09-05 10:21:01", "score":71}
+{"id":7, "uid":1004, "exam_id":9001, "start_time":"2021-09-05 10:31:01", "submit_time":"2021-09-05 10:51:01", "score":91}
+{"id":8, "uid":1004, "exam_id":9002, "start_time":"2021-09-05 10:01:01", "submit_time":"2021-09-05 10:21:01", "score":80}
+{"id":9, "uid":1004, "exam_id":9001, "start_time":"2021-09-05 10:31:01", "submit_time":"2021-09-05 10:51:01", "score":80}
